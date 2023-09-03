@@ -1,0 +1,10 @@
+1
+Mental Disorder: A condition that affects your thinking, feelings, mood, and behavior
+2
+Depression: Shown through sadness, low self-esteem, loss of interest in activities
+3
+Schizophrenia: Causes hallucinations, illusions, and disorganized speech and behaviour.
+4
+Medication: used in order to treat patients based on what mental disorder the patient has
+5
+Psychotherapy: a therapy which teaches the patient how to deal with their problems and strategies to deal with certain situations.
